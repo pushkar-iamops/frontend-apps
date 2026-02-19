@@ -16,6 +16,7 @@ Deploy **each app** on:
 
 
 **Deliverables:
-Requirement Analysis – 1 consolidated document covering all three applications
-Technical Documentation – 1 consolidated document covering all three applications
-A comparison report outlining the advantages and disadvantages of each service, along with a clear final recommendation. Please also include a short video (3–5 minutes) summarizing your evaluation and explaining the reasoning behind your recommendation.**
+<br>Requirement Analysis – 1 consolidated document covering all three applications
+<br>Technical Documentation – 1 consolidated document covering all three applications
+<br>A comparison report outlining the advantages and disadvantages of each service, along with a clear final recommendation. Please also include a short video (3–5 minutes) summarizing your evaluation and explaining the reasoning behind your recommendation.**
+
